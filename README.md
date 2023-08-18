@@ -6,6 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `npm run server`
+This is a custom command that will run the server on your local machine that hosts the simulated API of questions. In order for the fetch API to pull the questions this will need to be running. However this is not necessary and instead you could just move the questions array to the main file.
+
 ### `npm start`
 
 Runs the app in the development mode.\
